@@ -1,0 +1,6 @@
+Id 		Nombre Persona 			Email Persona 			EDAD			Dirección 		SEXO			Teléfono
+=============================================================================================================================================================================================
+
+Id 	Nombre Persona	Email	Persona	tDirección	sexo	telefono	nombre2t\parentesco	edad	enfermedad	tiempo	fecha	centro	causa
+1.	Esteban Rodriguez			darbelis31@gmail.com			Residencial El Dorado		masculino		8293990150	ivan	abuelo	89	Hipertension	4 años$fecha		Cetro de Obstetricia & Ginecología s.a.		QX. Manguito Rotador
+ ----------------------------------------------------------------------------------------------------------------------------------
